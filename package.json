@@ -1,0 +1,27 @@
+{
+  "name": "bexBE",
+  "version": "1.0.0",
+  "description": "crud for article creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theu/bexBE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theu/bexBE/issues"
+  },
+  "homepage": "https://github.com/Theu/bexBE#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^8.0.8"
+  }
+}
